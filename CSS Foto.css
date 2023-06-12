@@ -12,19 +12,19 @@
 }
 
 .flex-container > .tropical {
-    background: url(../Img/img1.jpeg);
+    background: url(./img1.jpeg);
 }
 
 .flex-container > .cold {
-    background: url(../Img/img2.jpeg);
+    background: url(./img2.jpeg);
 }
 
 .flex-container> .pnw {
-    background: url(../Img/img3.jpeg);
+    background: url(./img3.jpeg);
 }
 
 .flex-container> .desert{
-    background: url(../Img/index.jpeg);
+    background: url(./index.jpeg);
 }
 
 @media only screen and (max-width:1000%){
